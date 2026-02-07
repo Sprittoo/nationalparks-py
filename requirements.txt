@@ -1,4 +1,4 @@
-mod_wsgi
+gunicorn
 Flask==1.1.2
 flask-restful==0.3.8
 pymongo<4.0
